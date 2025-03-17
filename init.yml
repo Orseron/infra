@@ -3,7 +3,7 @@
   hosts: localhost
   gather_facts: no
   tasks:
-    - name: ensure roles directory exists
+    - name: убеждаюсь что директория существует
       file:
         path: "roles"
         state: directory
