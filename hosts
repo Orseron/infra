@@ -1,2 +1,0 @@
-lf-app1 ansible_host=192.168.64.5 ansible_port=22 ansible_user=root ansible_ssh_private_key_file=/Users/aleksandr/.ssh/id_ed25519 #production
-lf-app2 ansible_host=192.168.64.6 ansible_port=33 ansible_user=root ansible_ssh_private_key_file=/Users/aleksandr/.ssh/id_ed25519 #stage
